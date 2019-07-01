@@ -1,7 +1,7 @@
-## Data Science is awesome
+# Data Science is awesome
 A list of awesome materials about Data Science.
 
-# Basic concepts
+## Basic concepts
 
 1. [Springer Texts in Statistics](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
  
@@ -19,7 +19,7 @@ A list of awesome materials about Data Science.
  
 8. [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 
-# Using pandas
+## Using pandas
 
 9. [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 
